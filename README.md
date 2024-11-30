@@ -6,6 +6,13 @@
 </p>
 
 
+- 👋 Hi, I’m Aimee
+- 👀 I’m interested in Data Sciences 
+- 🌱 I’m currently learning Data Sciences
+- 💞️ I’m looking to collaborate on Analytics Projects
+- 📫 How to reach me : Via Social Media
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suwimarn) 
 
@@ -16,4 +23,16 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center"> 🚀 My Projects</h1>
+
+## 📊 Analytics Projects:
+
+### Tableau
+
+<div class='tableauPlaceholder' id='viz1732964878398' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BangkokCondoRentalPrice&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BangkokCondoRentalPrice&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BangkokCondoRentalPrice&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>             
+
+## 💡Creative Projects:
+
+### E-Commerce Website and Marketing Contents
+
+[![Mruit](https://raw.githubusercontent.com/AimeeSuwimarn/AimeeSuwimarn/refs/heads/main/Screenshot%202567-11-30%20at%2019.18.13.png)](https://mruitfood.wixsite.com/mruit1)
