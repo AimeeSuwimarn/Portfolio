@@ -7,7 +7,7 @@
 
 
 - 👋 Hi, I’m Aimee
-- 👀 I’m interested in Marketing, Data Analytics, Ai, Fintech, Real Estate, Crypto, Tech 
+- 👀 I’m interested in Marketing, Data Analytics, Ai, Fintech, Real Estate, Crypto, Tech, etc.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects i'm interested in!
 - 📫 How to reach me : Via Social Media
