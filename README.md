@@ -7,9 +7,9 @@
 
 
 - 👋 Hi, I’m Aimee
-- 👀 I’m interested in Data Sciences 
-- 🌱 I’m currently learning Data Sciences
-- 💞️ I’m looking to collaborate on Analytics Projects
+- 👀 I’m interested in Marketing, Data Analytics, Ai, Fintech, Real Estate, Crypto, Tech 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on projects i'm interested in!
 - 📫 How to reach me : Via Social Media
 
 
